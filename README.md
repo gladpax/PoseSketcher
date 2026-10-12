@@ -11,6 +11,12 @@
 
 生成后，用户可通过拖曳关节点对人体姿态进行灵活微调，或通过侧边栏自定义角色身体比例蓝图，极大提高绘画前期草图打型、动态捕捉与动作设计的效率。
 
+<div align="center">
+  <a href="https://youtu.be/97MVFyPoLcg" target="_blank">
+    <img src="https://img.youtube.com/vi/97MVFyPoLcg/maxresdefault.jpg" alt="PoseSketcher Demo" width="700" />
+  </a>
+</div>
+
 ---
 
 ## ✨ Features / 核心特性
