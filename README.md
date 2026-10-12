@@ -1,7 +1,5 @@
 # PoseSketcher
 
-# PoseSketcher
-
 [![Online Demo](https://img.shields.io/badge/Demo-gladpax.github.io-success?style=flat-square&logo=github)](https://gladpax.github.io/PoseSketcher/)
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube)](https://youtu.be/97MVFyPoLcg)
 
