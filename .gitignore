@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+build/
+
+# Logs & cache
+*.log
+.DS_Store
+Thumbs.db
+
+# Environment & local settings
+.env*
+!.env.example
+.vscode/
+.idea/
