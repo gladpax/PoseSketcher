@@ -1,5 +1,10 @@
 # PoseSketcher
 
+# PoseSketcher
+
+[![Online Demo](https://img.shields.io/badge/Demo-gladpax.github.io-success?style=flat-square&logo=github)](https://gladpax.github.io/PoseSketcher/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video-red?style=flat-square&logo=youtube)](https://youtu.be/97MVFyPoLcg)
+
 > A lightweight, stroke-based 2D pose reference and sketch tool built with React and SVG.  
 > 极简笔触驱动的 2D 人体姿态起稿与参考工具。
 
@@ -10,12 +15,6 @@
 **PoseSketcher** 是一款专为画师、原画设计师与速写爱好者设计的极简人体姿态起稿工具。遵循“一笔定躯干主轴，四笔引出四肢”的直觉手感，快速在画布上生成具各有关节结构和透视的人体 2D 骨骼与体块模型。
 
 生成后，用户可通过拖曳关节点对人体姿态进行灵活微调，或通过侧边栏自定义角色身体比例蓝图，极大提高绘画前期草图打型、动态捕捉与动作设计的效率。
-
-<div align="center">
-  <a href="https://youtu.be/97MVFyPoLcg" target="_blank">
-    <img src="https://img.youtube.com/vi/97MVFyPoLcg/maxresdefault.jpg" alt="PoseSketcher Demo" width="700" />
-  </a>
-</div>
 
 ---
 
